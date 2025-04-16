@@ -110,7 +110,7 @@ while True:
         break
 
 
-# Exibição e funcionalidades
+# Exibição
 todos(time)
 relatorio(time)
 batalha(time)
